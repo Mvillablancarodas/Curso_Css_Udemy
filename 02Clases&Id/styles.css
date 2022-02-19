@@ -14,7 +14,7 @@ h1{
     color:green;
 }
 .titulo{
-    color:red;
+    color:red; /*los estilos en linea es mas fuerte de jerarquia */
 }
 #frase{
      color:blue !important;
